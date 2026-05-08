@@ -586,7 +586,7 @@ function Contact() {
           Have a project that requires precise BIM consultation, clash-free coordination, or high-quality LOD 500 deliverables? I'd love to hear from you. Reach out through any of the channels below and let's build something great.
         </p>
         <div className={inView ? "fade-up d3" : ""} style={{ opacity: inView ? undefined : 0, display:"flex", flexDirection:"column", gap:"1.2rem" }}>
-          <ContactLink href="tel:+918369049502" label="Phone" value="+91 83690 49502" iconPath="22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.63 3.38 2 2 0 0 1 3.6 1.21h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.91a16 16 0 0 0 6 6l.91-.91a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 21.73 16.92z" />
+          <ContactLink href="tel:+918171650502" label="Phone" value="+91 83690 49502" iconPath="22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.63 3.38 2 2 0 0 1 3.6 1.21h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.91a16 16 0 0 0 6 6l.91-.91a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 21.73 16.92z" />
           <ContactLink href="mailto:utkarsh.misra26@gmail.com" label="Email" value="utkarsh.misra26@gmail.com" iconPath="4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zM22 6l-10 7L2 6" />
           <ContactLink href="https://linkedin.com/in/utkarshpriyamisra" label="LinkedIn" value="linkedin.com/in/utkarshpriyamisra" iconPath="16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2zM4 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
         </div>
